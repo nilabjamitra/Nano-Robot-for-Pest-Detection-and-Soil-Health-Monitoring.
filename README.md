@@ -42,9 +42,6 @@ IoT hardware setup (nano-robot, sensors)
 Installation
 Clone this repository:
 
-bash
-git clone https://github.com/nilabjamitra/Nano-Robot-for-Pest-Detection-and-Soil-Health-Monitoring.git
-cd Nano-Robot-for-Pest-Detection-and-Soil-Health-Monitoring
 Install required dependencies:
 
 bash
